@@ -1,9 +1,1 @@
-remote_theme: sproogen/modern-resume-theme
-# Personal info
-name: Your Name
-title: Your job title
-email: Your email (optional)
-# email_title: Email (Email title override)
-phone: Your phone number (optional)
-# phone_title: Phone (Phone title override)
-website: Your website (eg. https://google.com)(optional)
+remote_theme: elipapa/markdown-cv
